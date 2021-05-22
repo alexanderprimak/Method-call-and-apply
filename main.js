@@ -23,6 +23,7 @@ let info = infoUser.sayFullInfoUser.bind(newUSer);
 info()
 
 
+////////////////////////////////////////////////////
 
 const math = {
     pi:3.14,
